@@ -17,8 +17,8 @@ BUILD_ID=rolling
 Other 'DISTRIB's are:
 
 All Variable Names are:
-NAME="Arch
-PRETTY_NAME="Arch
+NAME="Arch Linux"
+PRETTY_NAME="Arch Linux"
 ID=arch
 BUILD_ID=rolling
 ANSI_COLOR="38;2;23;147;209"
