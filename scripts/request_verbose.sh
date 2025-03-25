@@ -23,6 +23,6 @@ echo -e "\nOther 'DISTRIB's are:"
 cat /etc/*release | awk -F "=" '$1 ~ "DISTRIB" {printf "%s=%s\n", $1, $2}'
 
 echo -e "\nAll Variable Names are:"
-cat /etc/*release | awk '$1 ~ ".=" {print $1}'
+cat /etc/*release | awk '$1 ~ ".=" {print $0}'
 
 exit;
