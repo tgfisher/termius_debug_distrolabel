@@ -1,0 +1,84 @@
+REAL_OS_NAME is 'Linux'
+SA_OS_TYPE is '"Linux"'
+
+----------------------------------
+(DISTRIB_ID filename glob match.)
+
+-rw-r--r-- 1 root root 746 Mar  6 01:30 /etc/armbian-image-release
+-rw-r--r-- 1 root root 713 Mar 23 16:08 /etc/armbian-release
+-rw-r--r-- 1 root root 305 Mar  6 01:29 /etc/os-release
+----------------------------------
+
+DISTRIB_ID is ''
+
+Other 'ID's are:
+VERSION_ID="12"
+ID=debian
+
+Other 'DISTRIB's are:
+
+All Variable Names are:
+BOARD=odroidhc4
+BOARD_NAME="Odroid
+BOARDFAMILY=meson-sm1
+BUILD_REPOSITORY_URL=https://github.com/armbian/build
+BUILD_REPOSITORY_COMMIT=2b7cb0d1a
+LINUXFAMILY=meson64
+ARCH=arm64
+BOOT_SOC=
+IMAGE_TYPE=stable
+BOARD_TYPE=conf
+INITRD_ARCH=arm64
+KERNEL_IMAGE_TYPE=Image
+KERNEL_TARGET=current,edge
+KERNEL_TEST_TARGET=current
+FORCE_BOOTSCRIPT_UPDATE=
+FORCE_UBOOT_UPDATE=
+OVERLAY_DIR="/boot/dtb/amlogic/overlay"
+VENDOR="Armbian"
+VENDORDOCS="https://docs.armbian.com"
+VENDORURL="https://www.armbian.com"
+VENDORSUPPORT="https://forum.armbian.com"
+VENDORBUGS="https://www.armbian.com/bugs"
+BOOTSCRIPT_FORCE_UPDATE="no"
+BOOTSCRIPT_DST="boot.cmd"
+VERSION=25.2.3
+REVISION=25.2.3
+IMAGE_UUID=<redacted> # not sure if this is specific to me
+BOARD=odroidhc4
+BOARD_NAME="Odroid
+BOARDFAMILY=meson-sm1
+BUILD_REPOSITORY_URL=https://github.com/armbian/build
+BUILD_REPOSITORY_COMMIT=2b7cb0d1a
+LINUXFAMILY=meson64
+ARCH=arm64
+BOOT_SOC=
+IMAGE_TYPE=stable
+BOARD_TYPE=conf
+INITRD_ARCH=arm64
+KERNEL_IMAGE_TYPE=Image
+KERNEL_TARGET=current,edge
+KERNEL_TEST_TARGET=current
+FORCE_BOOTSCRIPT_UPDATE=
+FORCE_UBOOT_UPDATE=
+OVERLAY_DIR="/boot/dtb/amlogic/overlay"
+VENDOR="Armbian"
+VENDORDOCS="https://docs.armbian.com"
+VENDORURL="https://www.armbian.com"
+VENDORSUPPORT="https://forum.armbian.com"
+VENDORBUGS="https://www.armbian.com/bugs"
+BOOTSCRIPT_FORCE_UPDATE="no"
+BOOTSCRIPT_DST="boot.cmd"
+VERSION=25.2.3
+REVISION=25.2.3
+BRANCH=current
+PRETTY_NAME="Armbian
+NAME="Debian
+VERSION_ID="12"
+VERSION="12
+VERSION_CODENAME=bookworm
+ID=debian
+HOME_URL="https://www.armbian.com"
+SUPPORT_URL="https://forum.armbian.com"
+BUG_REPORT_URL="https://www.armbian.com/bugs"
+ARMBIAN_PRETTY_NAME="Armbian

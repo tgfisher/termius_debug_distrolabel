@@ -1,0 +1,30 @@
+REAL_OS_NAME is 'Linux'
+SA_OS_TYPE is '"Linux"'
+
+----------------------------------
+(DISTRIB_ID filename glob match.)
+
+-rw-r--r-- 1 root root  1 Nov 21 00:56 /etc/arch-release
+lrwxrwxrwx 1 root root 21 Feb  9 20:48 /etc/os-release -> ../usr/lib/os-release
+----------------------------------
+
+DISTRIB_ID is ''
+
+Other 'ID's are:
+ID=arch
+BUILD_ID=rolling
+
+Other 'DISTRIB's are:
+
+All Variable Names are:
+NAME="Arch
+PRETTY_NAME="Arch
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://archlinux.org/"
+DOCUMENTATION_URL="https://wiki.archlinux.org/"
+SUPPORT_URL="https://bbs.archlinux.org/"
+BUG_REPORT_URL="https://gitlab.archlinux.org/groups/archlinux/-/issues"
+PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
+LOGO=archlinux-logo
