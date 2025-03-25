@@ -19,7 +19,7 @@ Other 'DISTRIB's are:
 
 All Variable Names are:
 BOARD=odroidhc4
-BOARD_NAME="Odroid
+BOARD_NAME="Odroid HC4"
 BOARDFAMILY=meson-sm1
 BUILD_REPOSITORY_URL=https://github.com/armbian/build
 BUILD_REPOSITORY_COMMIT=2b7cb0d1a
@@ -46,7 +46,7 @@ VERSION=25.2.3
 REVISION=25.2.3
 IMAGE_UUID=<redacted> # not sure if this is specific to me
 BOARD=odroidhc4
-BOARD_NAME="Odroid
+BOARD_NAME="Odroid HC4"
 BOARDFAMILY=meson-sm1
 BUILD_REPOSITORY_URL=https://github.com/armbian/build
 BUILD_REPOSITORY_COMMIT=2b7cb0d1a
@@ -72,13 +72,13 @@ BOOTSCRIPT_DST="boot.cmd"
 VERSION=25.2.3
 REVISION=25.2.3
 BRANCH=current
-PRETTY_NAME="Armbian
-NAME="Debian
+PRETTY_NAME="Armbian 25.2.3 bookworm"
+NAME="Debian GNU/Linux"
 VERSION_ID="12"
-VERSION="12
+VERSION="12 (bookworm)"
 VERSION_CODENAME=bookworm
 ID=debian
 HOME_URL="https://www.armbian.com"
 SUPPORT_URL="https://forum.armbian.com"
 BUG_REPORT_URL="https://www.armbian.com/bugs"
-ARMBIAN_PRETTY_NAME="Armbian
+ARMBIAN_PRETTY_NAME="Armbian 25.2.3 bookworm"
